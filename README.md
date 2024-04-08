@@ -48,9 +48,6 @@ Welcome to our Café website! This readme will guide you through the structure, 
 
 4. **Functionality**: Extend or modify the JavaScript functionality in the `script.js` file to add new features or customize existing ones according to your requirements.
 
-## Contributors:
-
-- [Your Name or Organization](https://github.com/your-username)
 
 ## License:
 
